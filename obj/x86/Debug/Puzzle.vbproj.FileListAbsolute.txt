@@ -1,0 +1,79 @@
+C:\Users\Franco\documents\visual studio 2010\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Franco\documents\visual studio 2010\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Franco\documents\visual studio 2010\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.xml
+C:\Users\Franco\documents\visual studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Franco\documents\visual studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.exe
+C:\Users\Franco\documents\visual studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.xml
+C:\Users\Franco\documents\visual studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.pdb
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Puzzle\Puzzle\obj\x86\Debug\Puzzle.exe
+F:\Puzzle\Puzzle\obj\x86\Debug\Puzzle.xml
+F:\Puzzle\Puzzle\obj\x86\Debug\Puzzle.pdb
+F:\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+F:\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+F:\Puzzle\Puzzle\bin\Debug\Puzzle.xml
+F:\Puzzle\Puzzle\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.Form2.resources
+F:\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Puzzle\Puzzle\obj\x86\Debug\Puzzle.exe
+H:\Puzzle\Puzzle\obj\x86\Debug\Puzzle.xml
+H:\Puzzle\Puzzle\obj\x86\Debug\Puzzle.pdb
+H:\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+H:\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+H:\Puzzle\Puzzle\bin\Debug\Puzzle.xml
+H:\Puzzle\Puzzle\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.Form2.resources
+H:\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.write.899.tlog
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\GenerateResource.write.1360.tlog
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.puzzle.resources
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.imagen.resources
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.buscando.resources
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\Interop.FileViewLib.dll
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\Puzzle.vbproj.ResolveComReference.cache
+C:\Users\FRANCO\Documents\Visual Studio 2010\Projects\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\Puzzle\Puzzle\obj\x86\Debug\Interop.FileViewLib.dll
+G:\Puzzle\Puzzle\obj\x86\Debug\Puzzle.vbproj.ResolveComReference.cache
+G:\Puzzle\Puzzle\obj\x86\Debug\Puzzle.exe
+G:\Puzzle\Puzzle\obj\x86\Debug\Puzzle.xml
+G:\Puzzle\Puzzle\obj\x86\Debug\Puzzle.pdb
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\Interop.FileViewLib.dll
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\Puzzle.vbproj.ResolveComReference.cache
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\Puzzle.exe
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\Puzzle.xml
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\Puzzle.pdb
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\bin\Debug\Puzzle.xml
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.puzzle.resources
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.imagen.resources
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.buscando.resources
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Memoria Roja Vieja 09-02-2013\Puzzle\Puzzle\obj\x86\Debug\Puzzle.vbproj.GenerateResource.Cache
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\Interop.FileViewLib.dll
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\Puzzle.vbproj.ResolveComReference.cache
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\Puzzle.exe
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\Puzzle.xml
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\Puzzle.pdb
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\bin\Debug\Puzzle.xml
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\WindowsApplication1.puzzle.resources
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\WindowsApplication1.imagen.resources
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\WindowsApplication1.buscando.resources
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\GenerateResource.write.1360.tlog
+C:\Users\FRANCO\Desktop\UNI\Puzzle POWER PUZZLE\Puzzle\obj\x86\Debug\GenerateResource.write.899.tlog
